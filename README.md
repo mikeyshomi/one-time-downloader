@@ -1,6 +1,6 @@
 # one-time-downloader
 PHP file-host with “one-time” link generator, upload a file via web form and instantly get a direct download URL without any confirmation screen (educational/demo only).
-Needs a hostinger account for hosting.
+
 
 # One-Time Download Link Generator (Conceptual Overview)
 
@@ -10,7 +10,7 @@ Needs a hostinger account for hosting.
 
 1. **Request file:** identify file path or ID.  
 2. **Generate token:** random string (e.g. `bin2hex(random_bytes(16))`), store with file, expiry, unused status.  
-3. **Deliver link:**  
+3. **Deliver link:**  Needs a hostinger account for hosting.
    ```
    https://your.site/download.php?token=abcdef123456
    ```  
