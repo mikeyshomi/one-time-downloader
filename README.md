@@ -3,7 +3,7 @@ PHP file-host with “one-time” link generator, upload a file via web form and
 
 # One-Time Download Link Generator (Conceptual Overview)
 
-![Download UI](/images/secure-file-hostinmg.png)
+![Download UI](/images/secure-file-hosting.png)
 
 **Goal:** Outline secure, expiring URLs usable once without intermediate UI.
 
